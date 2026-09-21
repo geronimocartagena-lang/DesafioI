@@ -13,6 +13,38 @@ add_executable(Codigos
     Calcularbytes.h
     Creartablero.cpp
     Creartablero.h
+    Liberartablero.cpp
+    Liberartablero.h
+    Obtenerficha.cpp
+    Obtenerficha.h
+    Colocarficha.cpp
+    Colocarficha.h
+    Llenartablero.cpp
+    Llenartablero.h
+    Mostrartablero.cpp
+    Mostrartablero.h
+    Mostrarbinario.cpp
+    Mostrarbinario.h
+    Eliminarficha.cpp
+    Eliminarficha.h
+    Detectarcombinaciones.cpp
+    Detectarcombinaciones.h
+    Reorganizartablero.cpp
+    Reorganizartablero.h
+    Llenarespacios.cpp
+    Llenarespacios.h
+    Procesarcascadas.cpp
+    Procesarcascadas.h
+    Agregarfila.cpp
+    Agregarfila.h
+    Eliminarfila.cpp
+    Eliminarfila.h
+    Agregarcolumna.cpp
+    Agregarcolumna.h
+    Eliminarcolumna.cpp
+    Eliminarcolumna.h
+    Mostrarmenu.cpp
+    Mostrarmenu.h
 
 
 )
